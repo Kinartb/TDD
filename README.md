@@ -176,7 +176,7 @@ Una vez implementado los metodos y las funcionalidad ejecutamos nuevamente rspec
 
 ![](https://github.com/Kinartb/TDD/blob/main/Imagenes/pasa5.png)
 
-Ahora todas las pruebas pasan perfectamente.
+Ahora todas las pruebas pasan perfectamente (puntos en verde).
 
 ### Fixtures y Factorías
 
