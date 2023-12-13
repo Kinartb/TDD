@@ -174,7 +174,7 @@ Vemos que ahora el error a cambiado, esto indica que se han realizado los docume
 
 Una vez implementado los metodos y las funcionalidad ejecutamos nuevamente rspec y observamos.
 
-![](https://github.com/Kinartb/TDD/blob/main/Imagenes/paso5.png)
+![](https://github.com/Kinartb/TDD/blob/main/Imagenes/pasa5.png)
 
 Ahora todas las pruebas pasan perfectamente.
 
