@@ -219,14 +219,14 @@ de los impulsores había utilizado unidades del sistema internacional (SI) mient
 
 El incidente con la Mars Climate Orbiter fue causado por un error de integración entre dos sistemas que utilizaban unidades de medida diferentes: libras y newtons. Para prevenir este tipo de fallos, se podrían haber implementado diferentes tipos de pruebas en distintas etapas del desarrollo del software.
 
-Pruebas Unitarias:
+`Pruebas Unitarias:`
 
 Corrección de Unidades: En las pruebas unitarias, se podrían haber incluido casos de prueba específicos para verificar que las unidades de medida utilizadas en diferentes módulos o funciones del software fueran coherentes. Por ejemplo, asegurarse de que todas las funciones relacionadas con el control de la nave espacial utilizaban las mismas unidades de medida.
 
-Pruebas de Integración:
+`Pruebas de Integración:`
 
 Pruebas de Interfaz: Se podrían haber llevado a cabo pruebas de integración para verificar que los diferentes módulos del software se comunicaban correctamente y que la información compartida entre ellos estaba en el formato y unidad de medida correctos. Esto habría ayudado a identificar discrepancias en las interfaces entre los sistemas.
 
-Pruebas Funcionales:
+`Pruebas Funcionales:`
 
 Casos de Uso Específicos: En las pruebas funcionales, se podrían haber incluido casos de prueba específicos para los escenarios de vuelo y navegación. Estos casos de prueba deberían haber abordado la coordinación entre los diferentes sistemas y la correcta interpretación de las unidades de medida durante operaciones críticas.
